@@ -1,0 +1,6 @@
+/web/bundles
+/app/bootstrap.php.cahce
+/app/cache
+/app/logs
+/vendor
+/app/config/parameters.ini
